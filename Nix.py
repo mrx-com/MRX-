@@ -315,10 +315,7 @@ def menu():
         AFG_CLONING()
     elif select =='3':
        os.system('xdg-open https://t.me/+8801332718196');menu()
-    else:
-        print('\n Select Wrong option ... ')
-        time.sleep(2)
-        NIX(allkey)
+    
 #---------------------[ USER - AGENT ] -------------------#
 def uaxxx():
     ua='[FBAN/FB4A;FBAV/83.0.0.5091;FBBV/8586033;FBDM/{density=1,width=720,height=1280};FBLC/en_US;FBRV/5718626;FBCR/null;FBMF/sony Ericsson Xperia U;FBBD/sony Ericsson Xperia U;FBPN/com.facebook.katana;FBDV/;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]'
