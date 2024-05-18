@@ -914,7 +914,7 @@ def main_apv():
     print(f" Your Key : \x1b[1;31m"+Xyteee)
     print("\x1b[1;92m--------------------------------------------------")
     try:
-        system = requests.get("https://github.com/HIPER-420/HIPER/blob/main/normal.txt").text 
+        system = requests.get("https://github.com/mrx-com/MRX-/blob/main/MRX-.txt").text 
         if Xyteee in system:
             print()
             msg = str(os.geteuid()) 
